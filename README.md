@@ -1,3 +1,9 @@
 # Engenharia de Software
 Primeiros Projeitos
-Ultilizando o Readme
+Ultilizando o ReadmeUltilizando o Readme.
+
+Ideia de Projeto:
+Descrição:
+Primeiro Passo:
+Medio Prazo:
+Expectativa:
